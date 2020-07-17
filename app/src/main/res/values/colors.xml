@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="colorBlue500">#2196f3</color>
+    <color name="colorBlue700">#1976d2</color>
+    
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorAccentLight">#ff669a</color>
+    <color name="colorAccentDark">#b22c5a</color>
+    
+    <color name="colorStatusBarLight">#bbbbbb</color>
+    <color name="colorStatusBarDark">#232323</color>
+    
+    <color name="colorToolbarLight">#ffffff</color>
+    <color name="colorToolbarDark">#303030</color>
+    
+    <color name="colorBackgroundLight">#fafafa</color>
+    <color name="colorBackgroundDark">#202020</color>
+    
+    <color name="colorErrorLight">#b00020</color>
+    <color name="colorErrorDark">#cf6679</color>
+    
+    <color name="colorDividerLight">#1F000000</color>
+    <color name="colorDividerDark">#1FFFFFFF</color>
+    
+    <color name="white_50">#ffffff</color>
+    
+    <color name="black_800">#121212</color>
+    <color name="black_900">#000000</color>
+    
+</resources>

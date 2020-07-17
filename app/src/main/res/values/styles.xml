@@ -1,0 +1,12 @@
+<resources>
+    
+    <style name="AppTheme.Dialog" parent="ThemeOverlay.MaterialComponents.Dialog.Alert">
+        <item name="android:windowAnimationStyle">@style/AppTheme.Dialog.Animation</item>
+    </style>
+    
+    <style name="AppTheme.Dialog.Animation" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/animation_in</item>
+        <item name="android:windowExitAnimation">@anim/animation_out</item>
+    </style>
+    
+</resources>
